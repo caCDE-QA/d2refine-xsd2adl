@@ -1,5 +1,6 @@
 # d2refine-xsd2adl
 This project library converts an XML schema to an archetype in OpenEHR's ADL 2.0 (Archetype Definition Language) format.
+XML Schema Object Model (XSOM) is used to parse the XML Schema and transformed to ADL.
 this project levelrages the existing project that work with ADL parser and some other libraries as dependencies.
 
 ```
